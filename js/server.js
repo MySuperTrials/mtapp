@@ -1,4 +1,4 @@
-/*eslint no-console: 0*/
+/*eslint no-console: test 0*/
 "use strict";
 
 var http = require("http");
